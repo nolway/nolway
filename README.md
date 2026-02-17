@@ -30,4 +30,3 @@ Here are a few things I've worked on recently:
 ### 📫 Let’s Connect!
 
 💼 [LinkedIn](https://www.linkedin.com/in/alexis-faizeau/)  
-🗂 [GitHub Projects](https://github.com/Nolway?tab=repositories)
