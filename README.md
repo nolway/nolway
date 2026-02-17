@@ -27,13 +27,6 @@ Here are a few things I've worked on recently:
 * ⚔️ A Pokémon-inspired Minecraft server named **CobbleQuest**, including an ecosystem of lore, exploration, and unique region mechanics.
 * ⚙️ A browser-based Go game built with Svelte and real-time multiplayer logic.
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nolway&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolway&layout=compact&theme=tokyonight" />
-</p>
-
 ### 📫 Let’s Connect!
 
 💼 [LinkedIn](https://www.linkedin.com/in/alexis-faizeau/)  
